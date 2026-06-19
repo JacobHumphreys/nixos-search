@@ -440,6 +440,11 @@ repo = "agenix"
 
 [[sources]]
 type = "github"
+owner = "silversquirl"
+repo = "zig-flake"
+
+[[sources]]
+type = "github"
 owner = "snowfallorg"
 repo = "drift"
 
