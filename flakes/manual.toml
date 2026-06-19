@@ -575,6 +575,11 @@ owner = "zed-industries"
 repo = "zed"
 
 [[sources]]
+type = "github"
+owner = "zigtools"
+repo = "zls"
+
+[[sources]]
 type = "gitlab"
 owner = "pi-lar"
 repo = "neuropil"
